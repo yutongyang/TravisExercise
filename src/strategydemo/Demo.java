@@ -2,7 +2,7 @@ package strategydemo;
 
 public class Demo {
 
-	public static void main(String argv[]) {
+	public static void main(String args[]) {
 		Order order = new Order("Jennifer", 444.07f);
 		DiscountStrategy strategy = null;
 
